@@ -44,7 +44,7 @@ The prime hours for riding within this period were from 5 pm to 7 pm on weekdays
 
 ## References
 * [CitiBike Data](https://citibikenyc.com/system-data)
-* 
+  
 * [CitiBike Logo](https://images.search.yahoo.com/search/images?p=citibike+logo&fr=mcafee&type=E210US105G0&imgurl=http%3A%2F%2Fallvectorlogo.com%2Fimg%2F2017%2F07%2Fciti-bike-logo.png#id=0&iurl=http%3A%2F%2Fallvectorlogo.com%2Fimg%2F2017%2F07%2Fciti-bike-logo.png&action=click)
 
 * [CitiBike NYC](https://citibikenyc.com/homepage)
